@@ -6,7 +6,6 @@ on:
     #        - '明文源码.js'
     workflow_dispatch:
 
-
 jobs:
   obfuscate:
     runs-on: ubuntu-latest
